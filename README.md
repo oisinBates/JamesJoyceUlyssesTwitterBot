@@ -1,4 +1,4 @@
-# James_Joyce_Twitter_Bot
+# JamesJoyceUlyssesTwitterBot
 Twitter bot using the Tweepy library. Tweeting random quotes from James Joyce's Ulysses
 
 It's been said that James Joyce's lengthy novel *Ulysses* is so cryptic and oftentimes confusing, that the reader could spend a lifetime opening the book at random, always finding a new perspective. Though a number of Twitter accounts already tweet in 140 character blocks of text, I felt there to be a gap for a new approach: tweeting short sections text as the novel's pre-existing formatting by imposing each text excerpt on an image.	
